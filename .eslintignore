@@ -1,0 +1,4 @@
+build/*
+**/*.d.ts
+node_modules
+config
